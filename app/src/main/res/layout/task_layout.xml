@@ -18,7 +18,9 @@
             android:buttonTint="@color/purple_500"
             android:id="@+id/checkbox"
             android:text="this is task"
-            android:paddingLeft="8dp"/>
+            android:paddingLeft="8dp">
+
+        </com.google.android.material.checkbox.MaterialCheckBox>
     </RelativeLayout>
 
 </androidx.cardview.widget.CardView>
